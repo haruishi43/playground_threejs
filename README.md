@@ -1,2 +1,3 @@
-# playground_threejs
+# Playground Three.js
+
 Playing around with Three.js codes
